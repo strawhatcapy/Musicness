@@ -204,3 +204,7 @@ footer div, footer p, footer ol {
     font-family: "Roboto", "Inter", sans-serif;
     font-weight: bold;
 }
+
+footer{
+    background-color:rgba(178,34,34,0.65)
+}

@@ -197,3 +197,8 @@ border: 5px solid rgb(16, 4, 72);
 footer {
     background-color:rgba(227,2,2, 0.65)
 }
+
+.last-fm-intro{
+    font-family: "Roboto", "Inter", sans-serif;
+    text-weight: bold;
+}

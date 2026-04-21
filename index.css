@@ -199,11 +199,6 @@ footer {
     padding: 20px;
     display: flow-root;
 
-#last-fm-img {
-    float: left;
-    margin-right: 20px; 
-}
-
 footer div, 
 footer p, 
 footer ol, 
@@ -213,6 +208,13 @@ footer li {
     font-family: "Roboto", "Inter", sans-serif !important;
     font-weight: bold;
 }
+
+    
+#last-fm-img {
+    float: left;
+    margin-right: 20px; 
+}
+
 
 ol {
     padding-left: 240px; 

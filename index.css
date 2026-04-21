@@ -207,3 +207,7 @@ ol{
     font-family: "Roboto", "Inter", sans-serif;
     text-weight: bold;
 }
+
+last-fm-img{
+    float:left;
+}

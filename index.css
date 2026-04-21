@@ -195,10 +195,9 @@ border: 5px solid rgb(16, 4, 72);
 }
  
 footer {
-    background-color: rgba(227, 2, 2, 0.65); /* Added semicolon here */
+    background-color: rgba(227, 2, 2, 0.65);
     padding: 20px;
-    display: flow-root; /* This stops the background from collapsing */
-}
+    display: flow-root;
 
 #last-fm-img {
     float: left;

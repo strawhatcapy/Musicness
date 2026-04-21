@@ -3,7 +3,7 @@ body {
     margin: 0em 2em 1em 2em;
 }
 
-#header {
+header {
     background-color: rgb(229, 231, 230);
     gap: 40px;
 }

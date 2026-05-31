@@ -15,9 +15,6 @@ header {
     margin: 0em 0em 0em 0em;
     padding: 0.625rem;
     text-align: left;
-    color:black;
-}
-.menu  {
     list-style-type: none;
     font-family: "Roboto", "Inter", sans-serif; 
     color:rgb(16, 4, 72);   
